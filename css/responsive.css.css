@@ -1,0 +1,1051 @@
+@media(min-width:992px) and (max-width:1199px){
+    .navbar-light .navbar-nav .nav-link{
+        font-size: 14px;
+        font-weight: 600;
+    }
+    /*nav bar ends*/
+    #main-banner-part .overlay .banner h1{
+        font-size: 35px;
+    }
+    /*main banner part ends*/
+}
+@media(min-width: 768px) and (max-width:991px){
+    p{
+        font-size: 15px!important;
+    }
+    .navbar ul{
+        padding-bottom: 40px;
+    }
+    .navbar-light .navbar-nav{
+        padding-bottom: 20px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        font-size: 13px;
+        font-weight: 600;
+        line-height: 34px;
+    }
+    .navbar-light .navbar-nav .nav-link:hover{
+        padding-left: 20px;
+    }
+    .social{
+        padding-bottom: 40px;
+    }
+    /*nav bar ends*/
+    .amajon-part .amajon{
+        margin-top: 300px;
+    }
+    #main-banner-part .overlay .banner h1{
+        font-size: 30px;
+        color: #ff3a3a;
+    }
+    /*main banner part ends*/
+    /*amajon part start*/
+    .amajon-part .amajon .item h4{
+        padding: 0 21px 0px 21px;
+        font-size: 12px;
+        font-weight: 800;
+    }
+    .amajon-part .amajon .item h4 .fa{
+        font-size: 12px;
+        padding: 0;
+    }
+    amajon-part .amajon .item h3{
+        font-size: 16px;
+    }
+    .amajon-part .amajon .item ul{
+        padding-bottom: 8px;
+    }
+    .amajon-part .amajon .item .amajon-btn{
+        line-height: 34px;
+        padding-left: 8px;
+        padding-right: 8px;
+        margin-top: 8px;
+        margin-bottom: 12px;
+        
+    }
+    /*amajon part ends*/
+    .best-mini-headding{
+        font-size: 33px;
+        padding-top: 40px;
+        color: #3582a2;
+    }
+    .product-headding h2 a{
+        font-size: 24px;
+    }
+    .amajon-last-part ul li{
+        font-size: 16px;
+    }
+    .amajon-last-part .last-part{
+        font-size: 17px;
+    }
+    /*all amajon last part ends*/
+    #mini-buying .buying-part .headding{
+        font-size: 29px;
+    }
+    #mini-buying .buying-part .headding-2{
+        font-size: 29px;
+    }
+    #future-to .future-part h2{
+        font-size: 29px;
+    }
+    #project-faqs .faqs h2{
+        font-size: 29px;
+    }
+    /*project-faqs and all headding part ends*/
+    #project-faqs .faqs .jordan p{
+        font-size: 13px!important;
+    }
+    /*jordan part ends*/
+    #related .headding{
+        font-size: 29px;
+    }
+    #related .headding::before{
+        width: 230px;
+    }
+    #related .headding::after{
+        width: 230px;
+    }
+    #related .item .rela-content h3{
+        font-size: 24px;
+    }
+    #related .item .rela-content h5{
+        bottom: 10px;
+    }
+    /*related part ends*/
+    #you-may h3{
+        font-size: 29px;
+    }
+    /*related part ends*/
+    .social{
+        padding-bottom: 0;
+    }
+    #footer .privacy ul{
+        left: 0;
+    }
+    #footer .privacy ul li a{
+        font-size: 14px;
+    }
+    /*footer part ends*/
+    /*only home part<start>*/
+    .banner-part .banner-home .banner-item .overlay h6{
+        padding-top: 165px;
+        font-size: 15px;
+    }
+    .banner-part .banner-home .banner-item .overlay h1{
+        font-size: 32px;
+    }
+    .banner-part .banner-home .banner-item .overlay a{
+        width: 155px;
+        height: 40px;
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 40px;
+    }
+    /*only home part<start>*/
+}
+@media(min-width: 576px) and (max-width: 767px){
+    p{
+        font-size: 14px;
+    }
+    .navbar ul{
+        padding-bottom: 40px;
+    }
+    .navbar-light .navbar-nav{
+        padding-bottom: 20px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        font-size: 13px;
+        font-weight: 600;
+        line-height: 34px;
+    }
+    .navbar-light .navbar-nav .nav-link:hover{
+        padding-left: 20px;
+    }
+    .social{
+        padding-bottom: 40px;
+    }
+    /*nav bar ends*/
+    #main-banner-part .overlay .banner h1{
+        font-size: 25px;
+    }
+    .amajon-part{
+        bottom: -142%;
+    }
+    .amajon-part .amajon .item h4{
+        padding: 0 21px 0px 21px;
+        font-size: 12px;
+        font-weight: 800;
+    }
+    .amajon-part .amajon .item h4 .fa{
+        font-size: 12px;
+        padding: 0;
+    }
+    amajon-part .amajon .item h3{
+        font-size: 16px;
+    }
+    .amajon-part .amajon .item ul{
+        padding-bottom: 8px;
+    }
+    .amajon-part .amajon .item .amajon-btn{
+        line-height: 34px;
+        padding-left: 8px;
+        padding-right: 8px;
+        margin-top: 8px;
+        margin-bottom: 12px;
+        
+    }
+    .amajon-part .amajon .item,.amajon-part .amajon .item-2{
+        border-bottom: 1px solid #dedede!important;
+    }
+    .amajon-part .amajon .item-three{
+        margin-top: 50px;
+        margin-left: auto!important;
+        margin-right: auto!important;
+        
+    }
+    /*banner & amajon part ends*/
+    #your-guide{
+        padding-top: 670px;
+    }
+    #your-guide .content h5{
+        font-size: 13px;
+    }
+    #your-guide .read-btn{
+        font-size: 14px;
+    }
+    #your-guide .show-content ul li a{
+        font-size: 14px;
+        font-weight: 600;
+    }
+    #your-guide .technology p{
+        padding-top: 20px;
+    }
+    /*your guide part ends*/
+    .product-headding{
+        padding: 27px 5px 27px 15px;
+    }
+    .best-mini-headding{
+        font-size: 27px;
+        padding-top: 50px;
+        line-height: 0;
+        font-weight: 700;
+    }
+    .product-headding span{
+        width: 30px;
+        height: 30px;
+        font-size: 14px;
+        font-weight: 700;
+        text-align: center;
+        margin-right: 14px;
+        line-height: 30px;
+    }
+    .product-headding h2 a{
+        font-size: 20px;
+    }
+    .product-headding h4{
+        line-height: 30px;
+        padding-right: 8px;
+        padding-left: 8px;
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .product-headding h4 .fa{
+        display: none;
+    }
+    /*product-headding all part ends*/
+    .slide-vankyo-mini .left_arrow{
+        line-height: 35px;
+        text-align: center;
+        width: 35px;
+        height: 35px;
+    }
+    .slide-vankyo-mini .right_arrow{
+        line-height: 35px;
+        text-align: center;
+        width: 35px;
+        height: 35px;
+    }
+    .product-images .amj-overlay .content{
+        width: 145px;
+        height: 145px;
+    }
+    .product-images .amj-overlay P{
+        font-size: 13px;
+    }
+    .slide-vankyo-mini .slick-dots li{
+        width: 114px;
+        height: 65px;
+    }
+    /* vankyo slider dots work ends*/
+    .slide-anker .left_arrow{
+        line-height: 35px;
+        text-align: center;
+        width: 35px;
+        height: 35px;
+    }
+    .slide-anker .right_arrow{
+        line-height: 35px;
+        text-align: center;
+        width: 35px;
+        height: 35px;
+    }
+    .slide-anker .slick-dots li{
+        width: 114px;
+        height: 65px;
+    }
+    /*anker dots work ends*/
+    .slide-lg-electronic .left_arrow{
+        line-height: 35px;
+        text-align: center;
+        width: 35px;
+        height: 35px;
+    }
+    .slide-lg-electronic .right_arrow{
+        line-height: 35px;
+        text-align: center;
+        width: 35px;
+        height: 35px;
+    }
+    .slide-lg-electronic .slick-dots li{
+        width: 114px;
+        height: 65px;
+    }
+    /*lg electro slider dots work ends*/
+    .slide-viewsonic .left_arrow{
+        line-height: 35px;
+        text-align: center;
+        width: 35px;
+        height: 35px;
+    }
+    .slide-viewsonic .right_arrow{
+        line-height: 35px;
+        text-align: center;
+        width: 35px;
+        height: 35px;
+    }
+    .slide-viewsonic .slick-dots li{
+        width: 114px;
+        height: 65px;
+    }
+    /*view sonic slider dots work ends*/
+    .slide-optoma .left_arrow{
+        line-height: 35px;
+        text-align: center;
+        width: 35px;
+        height: 35px;
+    }
+    .slide-optoma .right_arrow{
+        line-height: 35px;
+        text-align: center;
+        width: 35px;
+        height: 35px;
+    }
+    .slide-optoma .slick-dots li{
+        width: 114px;
+        height: 65px;
+    }
+    /*optoma slider dots work ends*/
+    .slide-elephas .left_arrow{
+        line-height: 35px;
+        text-align: center;
+        width: 35px;
+        height: 35px;
+    }
+    .slide-elephas .right_arrow{
+        line-height: 35px;
+        text-align: center;
+        width: 35px;
+        height: 35px;
+    }
+    .slide-elephas .slick-dots li{
+        width: 114px;
+        height: 65px;
+    }
+    /*elephas slider dots work ends*/
+    .slide-apeman .left_arrow{
+        line-height: 35px;
+        text-align: center;
+        width: 35px;
+        height: 35px;
+    }
+    .slide-apeman .right_arrow{
+        line-height: 35px;
+        text-align: center;
+        width: 35px;
+        height: 35px;
+    }
+    .slide-apeman .slick-dots li{
+        width: 114px;
+        height: 65px;
+    }
+    /*slide-apeman dots work ends*/
+    .slide-kodak .left_arrow{
+        line-height: 35px;
+        text-align: center;
+        width: 35px;
+        height: 35px;
+    }
+    .slide-kodak .right_arrow{
+        line-height: 35px;
+        text-align: center;
+        width: 35px;
+        height: 35px;
+    }
+    .slide-kodak .slick-dots li{
+        width: 114px;
+        height: 65px;
+    }
+    /*slide-kodac dots work ends*/
+    .slide-dbpower .left_arrow{
+        line-height: 35px;
+        text-align: center;
+        width: 35px;
+        height: 35px;
+    }
+    .slide-dbpower .right_arrow{
+        line-height: 35px;
+        text-align: center;
+        width: 35px;
+        height: 35px;
+    }
+    .slide-dbpower .slick-dots li{
+        width: 114px;
+        height: 65px;
+    }
+    /*slide-dbpower dots work ends*/
+    .slide-aaxa .left_arrow{
+        line-height: 35px;
+        text-align: center;
+        width: 35px;
+        height: 35px;
+    }
+    .slide-aaxa .right_arrow{
+        line-height: 35px;
+        text-align: center;
+        width: 35px;
+        height: 35px;
+    }
+    .slide-aaxa .slick-dots li{
+        width: 114px;
+        height: 65px;
+    }
+    /*slide-aaxa dots work ends*/
+    /*all dots work ends*/
+    .amajon-btn-slide a{
+        line-height: 35px;
+        padding-right: 20px;
+        padding-left: 20px;
+        font-size: 13px;
+        font-weight: 600;
+    }
+    .amajon-btn a{
+        line-height: 35px;
+        padding-right: 20px;
+        padding-left: 20px;
+        font-size: 13px;
+        font-weight: 600;
+    }
+    .ama-content .content a{
+        font-size: 15px;
+    }
+    .amajon-last-part h3{
+        font-size: 17px;
+    }
+    .amajon-last-part ul li{
+        font-size: 14px;
+    }
+    .amajon-last-part p{
+        font-size: 15px;
+    }
+    .amajon-last-part .last-part{
+        font-size: 15px;
+    }
+    /*amajon slide button all ends*/
+    #mini-buying .buying-part .headding{
+        font-size: 20px;
+        padding: 30px 0;
+    }
+    #mini-buying .buying-part .headding-2{
+        font-size: 20px;
+    }
+    #mini-buying .buying-part p{
+        font-size: 14px!important;
+    }
+    #mini-buying .buying-part p span{
+        font-size: 15px;
+    }
+    /*mini buying ends*/
+    #future-to .future-part h2{
+        font-size: 20px;
+    }
+    #future-to .future-part p{
+        font-size: 14px!important;
+    }
+    #future-to .future-part span{
+        font-size: 15px;
+    }
+    /*future-to ends*/
+    #project-faqs .faqs h2{
+        font-size: 20px;
+    }
+    /*project-faqs ends*/
+    #project-faqs .faqs .jordan p{
+        font-size: 13px!important;
+    }
+    /*project-faqs jordan ends*/
+    #related .headding{
+        font-size: 22px;
+    }
+    #related .headding::before{
+        width: 150px;
+    }
+    #related .headding::after{
+        width: 150px;
+    }
+    #related .item .rela-content h6{
+        padding-top: 12px;
+    }
+    #related .item .rela-content h3{
+        font-size: 18px;
+    }
+    /*related part ends*/
+    #you-may h3{
+        font-size: 20px;
+        font-weight: 700;
+    }
+    #you-may ul li{
+        font-size: 14px;
+    }
+    /*related part ends*/
+    .social{
+        padding-bottom: 0;
+    }
+    #footer .social h5{
+        font-size: 14px;
+    }
+    #footer .social h4{
+        font-size: 17px;
+    }
+    #footer .privacy ul li a{
+        font-size: 13px!important;
+    }
+    /*footer part ends*/
+    /*only home part<start>*/
+    .banner-part .banner-home .banner-item .overlay h6{
+        padding-top: 100px;
+        font-size: 14px;
+    }
+    .banner-part .banner-home .banner-item .overlay h1{
+        font-size: 28px;
+    }
+    .banner-part .banner-home .banner-item .overlay a{
+        width: 140px;
+        height: 36px;
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 36px;
+    }
+    /*only home part<start>*/
+}
+@media(min-width: 320px) and (max-width:575px){
+    p{
+        font-size: 13px;
+    }
+    .navbar-light{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .navbar-light .navbar-nav{
+        padding-bottom: 20px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        font-size: 13px;
+        font-weight: 600;
+        line-height: 34px;
+    }
+    .navbar-light .navbar-nav .nav-link:hover{
+        padding-left: 20px;
+    }
+    .social{
+        padding-bottom: 40px;
+    }
+    /*nav bar ends*/   
+    #main-banner-part .overlay ul{
+        padding-left: 12px;
+    }
+    #main-banner-part .overlay ul li a{
+        font-size: 13px;
+    }
+    #main-banner-part .overlay .banner h5{
+        font-size: 14px;
+    }
+    #main-banner-part .overlay .banner h1{
+        font-size: 22px;
+    }
+    .product-headding{
+        padding: 20px 5px 20px 5px;
+    }
+     /*amajon part ends*/
+    .amajon-part{
+        bottom: -200%;
+    }
+    .amajon-part .amajon .item{
+        margin-bottom: 30px;
+        border-bottom: 1px solid #dedede!important;
+        border-top: 1px solid #dedede!important;
+    }
+    .amajon-part .amajon .item h4{
+        padding: 0 21px 0px 21px;
+        font-size: 12px;
+        font-weight: 800;
+    }
+    .amajon-part .amajon .item h4 .fa{
+        font-size: 11px;
+        padding: 0;
+    }
+    .amajon-part .amajon .item h3{
+        font-size: 16px;
+    }
+    .amajon-part .amajon .item ul{
+        padding-bottom: 8px;
+        font-size: 12px;
+    }
+    .amajon-part .amajon .item .amajon-btn{
+        line-height: 34px;
+        padding-left: 8px;
+        padding-right: 8px;
+        margin-top: 8px;
+        margin-bottom: 12px;
+        
+    }
+    /*amajon part ends*/
+    /*banner all ends*/
+       #your-guide{
+        padding-top: 903px;
+    }
+    #your-guide .content h5{
+        font-size: 13px;
+    }
+    #your-guide .content span{
+        color: #3756ff;
+        padding-bottom: 12px;
+    }
+    #your-guide .read-btn{
+        font-size: 14px;
+        color: #ff4848;
+    }
+    #your-guide .show-content .more h3{
+        font-size: 18px;
+        line-height: 30px;
+    }
+    #your-guide .show-content ul{
+        padding: 0;
+    }
+    #your-guide .show-content ul li a{
+        font-size: 13px;
+        font-weight: 600;
+    }
+    /*your-guide all ends*/
+    .best-mini-headding{
+        font-size: 18px;
+        line-height: 0;
+        padding-top: 40px;
+        font-weight: 800;
+    }
+    .product-headding span{
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        text-align: center;
+        font-size: 13px;
+        font-weight: 700;
+        margin-right: 8px;
+    }
+    .product-headding h4{
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 12px;
+        font-weight: 600;
+        line-height: 25px;
+        padding: 0 5px;
+        border-radius: 2px;
+    }
+    .product-headding h4 .fa{
+        display: none;
+    }
+    .product-headding h2 a{
+        font-size: 13px;
+        font-weight: 700;
+    }
+    /*your-guide all ends*/
+    /*slide-dots all start*/
+    .slide-vankyo-mini .left_arrow{
+        line-height: 32px;
+        text-align: center;
+        width: 32px;
+        height: 32px;
+    }
+    .slide-vankyo-mini .right_arrow{
+        line-height: 32px;
+        text-align: center;
+        width: 32px;
+        height: 32px;
+    }
+    .product-images .amj-overlay .content{
+        width: 90px;
+        height: 90px;
+    }
+    .product-images .amj-overlay P{
+        font-size: 9px;
+    }
+    .slide-vankyo-mini .slick-dots li{
+        width: 100px;
+        height: 50px;
+    }
+    /* vankyo slider dots work ends*/
+    .slide-anker .left_arrow{
+        line-height: 32px;
+        text-align: center;
+        width: 32px;
+        height: 32px;
+    }
+    .slide-anker .right_arrow{
+        line-height: 32px;
+        text-align: center;
+        width: 32px;
+        height: 32px;
+    }
+    .slide-anker .slick-dots li{
+        width: 100px;
+        height: 50px;
+    }
+    /*anker dots work ends*/
+    .slide-lg-electronic .left_arrow{
+        line-height: 32px;
+        text-align: center;
+        width: 32px;
+        height: 32px;
+    }
+    .slide-lg-electronic .right_arrow{
+        line-height: 32px;
+        text-align: center;
+        width: 32px;
+        height: 32px;
+    }
+    .slide-lg-electronic .slick-dots li{
+        width: 100px;
+        height: 50px;
+    }
+    /*lg electro slider dots work ends*/
+    .slide-viewsonic .left_arrow{
+        line-height: 32px;
+        text-align: center;
+        width: 32px;
+        height: 32px;
+    }
+    .slide-viewsonic .right_arrow{
+        line-height: 32px;
+        text-align: center;
+        width: 32px;
+        height: 32px;
+    }
+    .slide-viewsonic .slick-dots li{
+        width: 100px;
+        height: 50px;
+    }
+    /*view sonic slider dots work ends*/
+    .slide-optoma .left_arrow{
+        line-height: 32px;
+        text-align: center;
+        width: 32px;
+        height: 32px;
+    }
+    .slide-optoma .right_arrow{
+        line-height: 32px;
+        text-align: center;
+        width: 32px;
+        height: 32px;
+    }
+    .slide-optoma .slick-dots li{
+        width: 100px;
+        height: 50px;
+    }
+    /*optoma slider dots work ends*/
+    .slide-elephas .left_arrow{
+        line-height: 32px;
+        text-align: center;
+        width: 32px;
+        height: 32px;
+    }
+    .slide-elephas .right_arrow{
+        line-height: 32px;
+        text-align: center;
+        width: 32px;
+        height: 32px;
+    }
+    .slide-elephas .slick-dots li{
+        width: 100px;
+        height: 50px;
+    }
+    /*elephas slider dots work ends*/
+    .slide-apeman .left_arrow{
+        line-height: 32px;
+        text-align: center;
+        width: 32px;
+        height: 32px;
+    }
+    .slide-apeman .right_arrow{
+        line-height: 32px;
+        text-align: center;
+        width: 32px;
+        height: 32px;
+    }
+    .slide-apeman .slick-dots li{
+        width: 100px;
+        height: 50px;
+    }
+    /*slide-apeman dots work ends*/    
+    .slide-kodak .left_arrow{
+        line-height: 32px;
+        text-align: center;
+        width: 32px;
+        height: 32px;
+    }
+    .slide-kodak .right_arrow{
+        line-height: 32px;
+        text-align: center;
+        width: 32px;
+        height: 32px;
+    }
+    .slide-kodak .slick-dots li{
+        width: 100px;
+        height: 50px;
+    }
+    /*slide-kodac dots work ends*/
+    .slide-dbpower .left_arrow{
+        line-height: 32px;
+        text-align: center;
+        width: 32px;
+        height: 32px;
+    }
+    .slide-dbpower .right_arrow{
+        line-height: 32px;
+        text-align: center;
+        width: 32px;
+        height: 32px;
+    }
+    .slide-dbpower .slick-dots li{
+        width: 100px;
+        height: 50px;
+    }
+    /*slide-dbpower dots work ends*/
+    .slide-aaxa .left_arrow{
+        line-height: 32px;
+        text-align: center;
+        width: 32px;
+        height: 32px;
+    }
+    .slide-aaxa .right_arrow{
+        line-height: 32px;
+        text-align: center;
+        width: 32px;
+        height: 32px;
+    }
+    .slide-aaxa .slick-dots li{
+        width: 100px;
+        height: 50px;
+    }
+    /*slide-aaxa dots work ends*/
+    .amajon-btn-slide a{
+        line-height: 30px;
+        padding-right: 12px;
+        padding-left: 12px;
+        font-size: 12px;
+        margin: 120px 0 30px 0;
+    }
+    .amajon-btn a{
+        line-height: 30px;
+        padding-right: 12px;
+        padding-left: 12px;
+        font-size: 12px;
+        margin: 40px 0 30px 0;
+    }
+    .ama-content .content a{
+        font-size: 13px;
+    }
+    .amajon-last-part h3{
+        font-size: 18px;
+        padding-top: 15px;
+    }
+    .amajon-last-part ul li{
+        font-size: 14px;
+    }
+    .amajon-last-part p{
+        font-size: 15px;
+    }
+    .amajon-last-part .last-part{
+        font-size: 15px;
+    }
+    /*slide-dots all ends*/
+    #mini-buying .buying-part .headding{
+        font-size: 18px;
+        font-weight: 800;
+        padding-top: 0;
+        padding-bottom: 30px;
+    }
+    #mini-buying .buying-part .headding::before{
+        display: none;
+    }
+     #mini-buying .buying-part .headding::after{
+        position: absolute;
+        content: "";
+        width: 250px;
+        height: 3px;
+        background: #3582a2;
+         left: 50%;
+        top: 66%;
+        transform: translateX(-50%);
+    }
+    #mini-buying .buying-part p{
+        font-size: 13px;
+    }
+    #mini-buying .buying-part .headding-2{
+        font-size: 18px;
+    }
+    #mini-buying .buying-part p span{
+        font-size: 13px;
+    }
+    /*mini project buying part ends*/
+    #future-to .future-part h2{
+        font-size: 18px;
+    }
+    #future-to .future-part p{
+        font-size: 12px;
+    }
+    #future-to .future-part span{
+        font-size: 13px;
+    }
+    /*future-to part ends*/
+    #project-faqs .faqs h2{
+        font-size: 18px;
+    }
+    #project-faqs .faqs .jordan{
+        text-align: center;
+    }
+    #project-faqs .faqs .jordan h5{
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+    #project-faqs .faqs .jordan p{
+        font-size: 12px;
+    }
+    /*project-faqs part ends*/
+    #related .headding{
+        font-size: 19px;
+        background: #3582a2;
+        color: aliceblue;
+        margin-bottom: 20px;
+    }
+    #related .headding::before,.headding:after{
+        display: none;
+    }
+
+    /*project-faqs part ends*/
+    #you-may{
+        padding-bottom: 20px;
+    }
+    #related .item .rela-content h5{
+        bottom: 15px;
+    }
+    #you-may h3{
+        font-size: 19px;
+        line-height: 50px;
+    }
+    #you-may ul li a{
+        font-size: 12px;
+        margin: 0 5px;
+        font-weight: 600;
+    }
+    /*you-may part ends*/
+    #footer .social{
+        padding-bottom: 30px;
+    }
+    #footer .privacy ul{
+        display: flex;
+        position: absolute;
+        left: 15px;
+        bottom: 0;
+    }
+    #footer .privacy{
+        padding-top: 20px;
+    }
+    #footer .privacy ul li{
+        display: inline-block;
+        text-align: left;
+    }
+    #footer .dmca {
+        position: absolute;
+        left: 15px;
+        bottom: -80px;
+        /*you-may part ends*/
+    }
+    /*only home part<start>*/
+    .banner-part .banner-home .banner-item .overlay{
+        padding-left: 13px;
+    }
+    .banner-part .banner-home .banner-item .overlay h6{
+        padding-top: 70px;
+        padding-bottom: 7px;
+        font-size: 12px;
+        font-weight: 600;
+    }
+    .banner-part .banner-home .banner-item .overlay h1{
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+    .banner-part .banner-home .banner-item .overlay a{
+        width: 90px;
+        height: 30px;
+        font-size: 12px;
+        font-weight: 600;
+        line-height: 30px;
+    }
+    .banner-part .banner-home .slick-dots{
+        bottom: -32px;
+    }
+    .banner-part .banner-home .slick-dots li{
+        width: 8px;
+        height: 8px;
+    }
+    .banner-part .banner-home .left_arrow{
+        width: 30px;
+        line-height: 30px;
+        font-size: 25px;
+        height: 30px;
+        left: 5px;
+        bottom: -32px;
+    }
+    .banner-part .banner-home .right_arrow{
+        width: 30px;
+        line-height: 30px;
+        font-size: 25px;
+        height: 30px;
+        right: 5px;
+        bottom: -32px;
+    }
+    /*only home part<start>*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
